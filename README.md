@@ -10,7 +10,7 @@
 
 ## Summary
 
-Welcome to my GitHub repository dedicated to my machine learning upskilling journey with AWS. Throughout this repository, you'll find a collection of code and projects showcasing my development using various AWS tools and services. These tools include Amazon S3 Bucket, EC2 instances, and the powerful Amazon SageMaker suite, encompassing Ground Truth, Canvas, Data Wrangler, JumpStart, and Studio, to name a few. Join me on this learning journey as I explore and leverage AWS for machine learning.
+Welcome to my GitHub repository dedicated to my machine learning upskilling journey with AWS. Throughout this repository, you'll find a collection of code and projects showcasing my development using various AWS tools and services. These tools include Amazon S3 Bucket, EC2 instances, and the powerful Amazon SageMaker suite, encompassing Ground Truth, Canvas, Data Wrangler, JumpStart, Studio, AutoGluon, to name a few. Join me on this learning journey as I explore and leverage AWS for machine learning.
 
 ## Installation
 
